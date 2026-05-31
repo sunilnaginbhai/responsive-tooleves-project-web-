@@ -58,9 +58,6 @@ html,
 body {
   width: 100%;
   height: 100%;
-  overflow: hidden;
-
-
 }
 
 main {
@@ -620,6 +617,7 @@ nav {
   font-size: 14px;
 }
 .cont-divs {
+      overflow: hidden;
   width: 80vw;
   height: 28vh;
   margin-left: 10vw;
