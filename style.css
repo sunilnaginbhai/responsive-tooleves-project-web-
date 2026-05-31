@@ -47,9 +47,7 @@
 }
 ::-webkit-scrollbar-thumb {
   /* background-color: black; */
-  /* display: none; */
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -60,7 +58,6 @@ html,
 body {
   width: 100%;
   height: 100%;
-  overflow-x: hidden;
 }
 
 main {
@@ -232,7 +229,7 @@ nav {
   #card2,#card3,#card4,.empty-bottom2,.empty-bottom3,.empty-bottom4,.page5,.textbox{
     display: none;
   }
-   .born span{
+   .born span {
     font-size: 10px;
     color: rgb(255, 0, 0);
   }
